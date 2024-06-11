@@ -9,7 +9,8 @@
 <br>
 
 :wave: Eu tenho 20 anos, sou de São Paulo, atualmente estou cursando o 4ºSemestre de Ciências da Computação na FEI.
-<br>
+
+
 :computer: Gosto de me aventurar nos códigos como full stack e evoluir com os desafios que aparece enquanto estou programando, procuro sempre aprender coisas novas para progredir cada vez mais.
 <br>
 
