@@ -1,6 +1,3 @@
- ![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/db0b867d-39f6-4d2a-8337-92a75ec4816e)
-
-
 
 ![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/384a079b-7dcc-461b-9e71-6f95c2e74216)
 
