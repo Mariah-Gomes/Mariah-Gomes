@@ -21,7 +21,7 @@
 
 ## :space_invader: Experiência em...
 <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
-
+<img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="CSS"/>
 
 
 ## :bar_chart: Estatísticas
