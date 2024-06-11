@@ -1,5 +1,6 @@
 ## Mariah Gomes
-![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/77fa35cd-6420-4af5-a030-952e426c056d)
+![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/384a079b-7dcc-461b-9e71-6f95c2e74216)
+
 
 <!--
 **Mariah-Gomes/Mariah-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
