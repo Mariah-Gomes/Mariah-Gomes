@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
-<div align="center" style="font-family: 'Bookman', sans-serif;">
+<div align="center" style="font-family: 'Garamond', sans-serif;">
   <p>Mariah Gomes</p>
 </div>
 
