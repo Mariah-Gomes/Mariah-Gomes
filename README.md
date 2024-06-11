@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
-<div style="font-family: Tahoma, Geneva, sans-serif;">
-  <p>Mariah Gomes</p>
-</div>
+<div style="font-family: Impact, fantasy;">Texto em Impact</div>
 
 <div align="center">
   <a href="mailto:mariah.gomes06@gmail.com"><img width=5% height=5% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/e08d1c93-9a39-4f22-9bfd-2235360aee87"></a>
