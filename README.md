@@ -12,7 +12,7 @@
 
 
 :computer: Gosto de me aventurar nos códigos como full stack e evoluir com os desafios que aparece enquanto estou programando, procuro sempre aprender coisas novas para progredir cada vez mais.
-<br>
+
 
 
 
