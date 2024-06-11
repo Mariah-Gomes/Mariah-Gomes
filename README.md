@@ -31,6 +31,8 @@
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" style="margin: 10px;"/>
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" style="margin: 10px;"/>
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" style="margin: 10px;"/>
+  <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" style="margin: 10px;"/>
+  <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" style="margin: 10px;"/>
 </div>
 
 
