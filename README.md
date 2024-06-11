@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/mariah-santos-gomes/"><img width=5% height=5% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/0ba88a1c-d84a-427f-bf52-216891aa6eda"></a>
 </div>
 
+:wave_white: Eu tenho 20 anos, sou de São Paulo, atualmente estou cursando o 4ºSemestre de Ciências da Computação na FEI.
+
 <!--
 **Mariah-Gomes/Mariah-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
