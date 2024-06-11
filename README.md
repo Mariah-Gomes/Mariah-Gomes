@@ -3,9 +3,7 @@
 <img width=100% height=0% src="https://capsule-render.vercel.app/api?type=transparent&color=00BFFF&text=Mariah%20Gomes&fontColor=00BFFF&fontSize=30&animation=fadeIn"/>
 
 <div align="center">
-  <a href="mailto:mariah.gomes06@gmail.com"><img loading="lazy" src="![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/fbb34a76-4e28-4c44-b56c-03241dc0ddff)
-![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/fbb34a76-4e28-4c44-b56c-03241dc0ddff)
-"></a>
+  <a href="mailto:mariah.gomes06@gmail.com"><img loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/c383db0c-07b4-4b52-9ec7-d98abe8f1fbc"></a>
 </div>
 
 <!--
