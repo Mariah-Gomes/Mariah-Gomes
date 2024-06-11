@@ -1,4 +1,6 @@
-## Mariah Gomes
+![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/cb4fcb64-9c56-474b-b0c9-eae88cdbf3b1)
+
+
 ![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/384a079b-7dcc-461b-9e71-6f95c2e74216)
 
 
