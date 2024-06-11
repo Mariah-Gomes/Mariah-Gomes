@@ -23,12 +23,12 @@
 <div align="justify">
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/>
+  <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
 </div>
 
 
 
 ## :bar_chart: Estatísticas
-
 <div>
 <a href="https://github.com/Mariah-Gomes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariah-Gomes&layout=compact&langs_count=7&theme=dracula"/>
