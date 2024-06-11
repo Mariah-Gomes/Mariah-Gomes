@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
-<div style="font-family: Impact, fantasy;">
+<div style="font-family: Tahoma, Geneva, sans-serif;">
   <p>Texto em Impact</p>
 </div>
 
