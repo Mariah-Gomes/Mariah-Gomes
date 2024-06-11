@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00BFFF"/>
 
-<img width=100% height=0% src="https://capsule-render.vercel.app/api?type=transparent&color=00BFFF&text=Mariah%20Gomes&fontColor=00BFFF&fontSize=30&animation=fadeIn"/>
+<div align="center" style="font-family: 'Arial', sans-serif;">
+  <h3>Mariah Gomes</h3>
+</div>
 
 <div align="center">
   <a href="mailto:mariah.gomes06@gmail.com"><img width=5% height=5% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/e08d1c93-9a39-4f22-9bfd-2235360aee87"></a>
