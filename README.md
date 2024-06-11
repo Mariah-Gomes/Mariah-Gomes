@@ -2,7 +2,7 @@
 
 <img width=100% height=0% src="https://capsule-render.vercel.app/api?type=transparent&color=00BFFF&text=Mariah%20Gomes&fontColor=00BFFF&fontSize=30&animation=fadeIn"/>
 
-<a href="mailto:mariah.gomes06@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:mariah.gomes06@gmail.com"><img loading="lazy" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--
 **Mariah-Gomes/Mariah-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
