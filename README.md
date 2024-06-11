@@ -19,7 +19,7 @@
 
 :speech_balloon: Fora o meu amor pela programação eu também sou apaixonada por jogos, por gatos, e pelo universo dos kdramas e do kpop.
 
-# 🖥️ Tecnologias e Ferramentas
+## 🖥️ Tecnologias e Ferramentas
 #
 
 <!--
