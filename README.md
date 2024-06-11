@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&width=300&color=00BFFF&descAlign=0&descAlignY=0&reversal=false)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=00BFFF&descAlign=0&descAlignY=0&reversal=false)
 
 ![Footer](https://capsule-render.vercel.app/api?type=transparent&height=150&color=00BFFF&text=Mariah%20Gomes&descAlign=100&descAlignY=45&reversal=false&fontColor=00BFFF&fontSize=30&animation=fadeIn)
 
