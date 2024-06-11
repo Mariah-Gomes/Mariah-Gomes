@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
 <span style="color: deepskyblue" align="center">
-  <p>Mariah Gomes</p>
+  Mariah Gomes
 </span>
 
 <div align="center">
