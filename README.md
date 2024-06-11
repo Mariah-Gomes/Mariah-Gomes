@@ -1,6 +1,6 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=00BFFF&descAlign=0&descAlignY=0&reversal=false)
 
-![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/384a079b-7dcc-461b-9e71-6f95c2e74216)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&height=150&color=00BFFF&text=Mariah%20Gomes&descAlign=100&descAlignY=100&reversal=false&fontColor=00BFFF&fontSize=30&animation=fadeIn)
 
 
 <!--
