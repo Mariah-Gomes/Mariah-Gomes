@@ -1,4 +1,4 @@
-<imagem largura=100% fonte="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1"/>
 
 <!--![Footer](https://capsule-render.vercel.app/api?type=transparent&height=150&color=00BFFF&text=Mariah%20Gomes&descAlign=100&descAlignY=45&reversal=false&fontColor=00BFFF&fontSize=30&animation=fadeIn)-->
 
