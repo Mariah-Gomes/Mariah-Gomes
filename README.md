@@ -3,7 +3,8 @@
 <img width=100% height=0% src="https://capsule-render.vercel.app/api?type=transparent&color=00BFFF&text=Mariah%20Gomes&fontColor=00BFFF&fontSize=30&animation=fadeIn"/>
 
 <div align="center">
-  <a href="mailto:mariah.gomes06@gmail.com"><img width=8% height=8% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/c383db0c-07b4-4b52-9ec7-d98abe8f1fbc"></a>
+  <a href="mailto:mariah.gomes06@gmail.com"><img width=5% height=5% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/c383db0c-07b4-4b52-9ec7-d98abe8f1fbc"></a>
+  <a href="https://www.linkedin.com/in/mariah-gomes"><img width=5% height=5% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/6c23b7da-9617-4288-8a5f-a33658c3f6cf"></a>
 </div>
 
 <!--
