@@ -1,5 +1,7 @@
 ## Mariah Gomes
-<span style="font-family: 'Courier New'; color: red; font-size: 20px;">Este texto está em Arial.</span>
+<span style="color: green; font-family: 'Verdana'; font-size: 16px;">
+Este projeto tem como objetivo demonstrar a personalização de texto em um README do GitHub.
+</span>
 <!--
 **Mariah-Gomes/Mariah-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
