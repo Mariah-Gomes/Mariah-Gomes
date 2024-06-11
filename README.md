@@ -14,7 +14,10 @@
 :computer: Gosto de me aventurar nos códigos como full stack e evoluir com os desafios que aparece enquanto estou programando, procuro sempre aprender coisas novas para progredir cada vez mais.
 
 
+:seedling: Atualmente, estou procurando me aprofundar no mundo da programação buscando aprender coisas novas.
 
+
+:speech_balloon: Fora o meu amor pela programação eu também sou apaixonada por jogos, por gatos, e pelo universo dos kdramas e do kpop.
 
 <!--
 **Mariah-Gomes/Mariah-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
