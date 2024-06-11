@@ -3,7 +3,9 @@
 <img width=100% height=0% src="https://capsule-render.vercel.app/api?type=transparent&color=00BFFF&text=Mariah%20Gomes&fontColor=00BFFF&fontSize=30&animation=fadeIn"/>
 
 <div align="center">
-  <a href="mailto:mariah.gomes06@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:mariah.gomes06@gmail.com"><img loading="lazy" src="![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/fbb34a76-4e28-4c44-b56c-03241dc0ddff)
+![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/fbb34a76-4e28-4c44-b56c-03241dc0ddff)
+"></a>
 </div>
 
 <!--
