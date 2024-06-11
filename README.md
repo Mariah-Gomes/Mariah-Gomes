@@ -1,4 +1,4 @@
-![6057276-removebg-preview](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/12755e24-e453-4db8-817f-9ed932a9d4d2)
+ ![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/db0b867d-39f6-4d2a-8337-92a75ec4816e)
 
 
 
