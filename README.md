@@ -21,7 +21,7 @@
 :computer: Gosto de me aventurar nos códigos como full stack e evoluir com os desafios que aparece enquanto estou programando, procuro sempre aprender coisas novas para progredir cada vez mais.
 
 
-:seedling: Atualmente, estou procurando me aprofundar no mundo da programação buscando aprender coisas novas.
+:seedling: Atualmente, estou procurando me aprofundar no mundo da programação buscando aprender coisas novas e aprimorando meus projetos já existentes.
 
 
 :speech_balloon: Fora o meu amor pela programação eu também sou apaixonada por jogos, por gatos, e pelo universo dos kdramas e do kpop.
@@ -99,7 +99,7 @@
 <!-- Mostra os gráficos de seu desempenho do github -->
 <div>
 <a href="https://github.com/Mariah-Gomes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariah-Gomes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariah-Gomes&layout=donut&langs_count=7&theme=dracula"/>
 <br>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariah-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
