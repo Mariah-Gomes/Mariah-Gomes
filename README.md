@@ -1,3 +1,4 @@
+<!-- Onda que se mexe -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
 <div align="center">
@@ -8,6 +9,7 @@
 
 <br>
 
+<!-- Informações sobre mim -->
 :wave: Eu tenho 20 anos, sou de São Paulo, atualmente estou cursando o 4ºSemestre de Ciências da Computação na FEI.
 
 
@@ -30,8 +32,12 @@
   CSS
 </p>
   
+<p>
+  <img width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  JavaScript
+</p>
   
-  <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" style="margin: 10px;"/>
+  
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" style="margin: 10px;"/>
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" style="margin: 10px;"/>
   <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" style="margin: 10px;"/>
@@ -46,6 +52,7 @@
 
 
 ## :bar_chart: Estatísticas
+<!-- Mostra os gráficos de seu desempenho do github -->
 <div>
 <a href="https://github.com/Mariah-Gomes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariah-Gomes&layout=compact&langs_count=7&theme=dracula"/>
