@@ -22,6 +22,7 @@
 :speech_balloon: Fora o meu amor pela programação eu também sou apaixonada por jogos, por gatos, e pelo universo dos kdramas e do kpop.
 
 ## :space_invader: Experiência em...
+<!-- Ícones com o nome das tecnologias que já entrei em contato -->
 <p>
   <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
   HTML
@@ -82,7 +83,10 @@
   GitHub
 </p>  
   
-<p></p>
+<p>
+  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
+  Git
+</p>
 
 - Assembly
   
