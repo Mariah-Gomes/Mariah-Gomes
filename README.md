@@ -20,7 +20,7 @@
 :speech_balloon: Fora o meu amor pela programação eu também sou apaixonada por jogos, por gatos, e pelo universo dos kdramas e do kpop.
 
 ## :space_invader: Experiência em...
-<div align="left">
+<div style="display: flex; align-items: center;">
   <img loading="lazy" width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
   <p>HTML</p>
 </div>
