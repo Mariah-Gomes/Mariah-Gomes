@@ -67,18 +67,25 @@
   Arduino
 </p>
   
+<p>
+  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  C++
+</p>  
   
-  
-  
+<p>
+  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown"/>
+  Markdown
+</p>  
  
+<p>
+  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
+  GitHub
+</p>  
   
-  <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" style="margin: 10px;"/>
-  <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" style="margin: 10px;"/>
-  <img loading="lazy" width=5% height=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" style="margin: 10px;"/>
-</div>
+<p></p>
 
-
-
+- Assembly
+  
 ## :bar_chart: Estatísticas
 <!-- Mostra os gráficos de seu desempenho do github -->
 <div>
