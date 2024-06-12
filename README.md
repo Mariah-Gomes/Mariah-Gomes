@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=gradient&text=Mariah%20Gomes&fontSize=20&fontColor=00BFFF"/>
+  ![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/072fbb72-77d8-4285-b8c5-5f74cdf113f1)
 </div>
 
 <div align="center">
