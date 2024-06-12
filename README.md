@@ -1,8 +1,10 @@
 <!-- Onda que se mexe -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
-
-  ![image](https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/072fbb72-77d8-4285-b8c5-5f74cdf113f1)
+<div align="center">
+  <img src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/072fbb72-77d8-4285-b8c5-5f74cdf113f1)"/>
+</div>
+ 
 
 
 <div align="center">
