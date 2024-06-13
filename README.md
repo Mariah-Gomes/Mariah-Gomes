@@ -97,7 +97,7 @@
   
 ## :bar_chart: Estatísticas
 <!-- Mostra os gráficos de seu desempenho do github -->
-<div>
+<div align="center">
 <a href="https://github.com/Mariah-Gomes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariah-Gomes&layout=compact&langs_count=7&theme=dracula"/>
 <br>
