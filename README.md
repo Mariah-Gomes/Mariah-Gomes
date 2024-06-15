@@ -15,7 +15,7 @@
 <br>
 
 <!-- Informações sobre mim -->
-:wave: Eu tenho 20 anos, sou de São Paulo, atualmente estou cursando o 4ºSemestre de Ciências da Computação na FEI.
+:wave: Eu tenho 20 anos, sou de São Paulo, atualmente estou cursando o 4º Semestre de Ciência da Computação na FEI.
 
 
 :computer: Gosto de me aventurar nos códigos como full stack e evoluir com os desafios que aparece enquanto estou programando, procuro sempre aprender coisas novas para progredir cada vez mais.
