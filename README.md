@@ -4,22 +4,28 @@
 <!--<div align="center">
   <img src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/072fbb72-77d8-4285-b8c5-5f74cdf113f1)"/>
 </div>-->
+<!-- Título de perfil -->
 # Olá, sou Mariah! 👩‍💻  
 Estudante de Ciência da Computação na FEI 🚀  
-******************************
+---
 
+<!--
 <div align="center">
   <a href="mailto:mariah.gomes06@gmail.com"><img width=5% height=5% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/e08d1c93-9a39-4f22-9bfd-2235360aee87"></a>
   <a href="https://www.linkedin.com/in/mariah-santos-gomes/"><img width=5% height=5% loading="lazy" src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/0ba88a1c-d84a-427f-bf52-216891aa6eda"></a>
 </div>
 
-<br>
+<br> -->
 
 <!-- Informações sobre mim -->
-:wave: Eu tenho 20 anos, sou de São Paulo, atualmente estou cursando o 4º Semestre de Ciência da Computação na FEI.
+## Sobre mim
+:wave: Eu tenho 21 anos, sou de São Paulo, atualmente estou cursando o 6º Semestre de Ciência da Computação na FEI.
+:computer: Gosto de diversas áreas no mundo da programação, desde realizar códigos para a parte front tanto de web, quanto mobile, e aplicações com banco de dados com Java ou Python.
+:mag: Atualmente, estou procurando me aprofundar no mundo da programação aprendendo cada vez mais coisas novas e aprimorando meus projetos já existentes.
 
 
-:computer: Gosto de me aventurar nos códigos como full stack e evoluir com os desafios que aparece enquanto estou programando, procuro sempre aprender coisas novas para progredir cada vez mais.
+
+e evoluir com os desafios que aparece enquanto estou programando, procuro sempre aprender coisas novas para progredir cada vez mais.
 
 
 :seedling: Atualmente, estou procurando me aprofundar no mundo da programação buscando aprender coisas novas e aprimorando meus projetos já existentes.
