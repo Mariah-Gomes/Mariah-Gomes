@@ -19,9 +19,9 @@ Estudante de Ciência da Computação na FEI 🚀
 
 <!-- Informações sobre mim -->
 ## Sobre mim
-:wave: Eu tenho 21 anos, sou de São Paulo, atualmente estou cursando o 6º Semestre de Ciência da Computação na FEI.
-:computer: Gosto de diversas áreas no mundo da programação, desde realizar códigos para a parte front tanto de web, quanto mobile, e aplicações com banco de dados com Java ou Python.
-:mag: Atualmente, estou procurando me aprofundar no mundo da programação aprendendo cada vez mais coisas novas e aprimorando meus projetos já existentes.
+:wave: Eu tenho 21 anos, sou de São Paulo, atualmente estou cursando o 6º Semestre de Ciência da Computação na FEI. <br>
+:computer: Gosto de diversas áreas no mundo da programação, desde realizar códigos para a parte front tanto de web, quanto mobile, e aplicações com banco de dados com Java ou Python. <br>
+:mag: Atualmente, estou procurando me aprofundar no mundo da programação aprendendo cada vez mais coisas novas e aprimorando meus projetos já existentes. <br>
 
 
 
