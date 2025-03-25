@@ -4,7 +4,8 @@
 <!--<div align="center">
   <img src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/072fbb72-77d8-4285-b8c5-5f74cdf113f1)"/>
 </div>-->
-# Mariah Gomes
+# Olá, sou Mariah! 👩‍💻  
+Estudante de Ciência da Computação na FEI 🚀  
 ******************************
 
 <div align="center">
