@@ -19,11 +19,11 @@ Estudante de Ciência da Computação na FEI 🚀
 
 <!-- Informações sobre mim -->
 ## Sobre mim
-- :wave: Eu tenho 21 anos, sou de São Paulo, atualmente estou cursando o 6º Semestre de Ciência da Computação na FEI.
-- :computer: Gosto de diversas áreas no mundo da programação, desde realizar códigos para a parte front tanto de web, quanto mobile, e aplicações com banco de dados com Java ou Python. <br>
-:mag: Atualmente, estou procurando me aprofundar no mundo da programação aprendendo cada vez mais coisas novas e aprimorando meus projetos já existentes. <br>
-:seedling: Procuro sempre evoluir com os desafios que aparece enquanto estou programando, procuro sempre progredir cada vez mais.
-:speech_balloon: Fora o meu amor pela programação eu também sou apaixonada por jogos, por gatos, e pelo universo dos kdramas e do kpop.
+💡 Eu tenho 21 anos, sou de São Paulo e atualmente estou cursando o **6º Semestre de Ciência da Computação na FEI**.  
+💻 Tenho interesse em diversas áreas da programação, desde **desenvolvimento Front-end** (web e mobile) até **aplicações com banco de dados**, usando **Java** ou **Python**.  
+🔍 Atualmente, estou focada em **aprofundar meus conhecimentos** em programação e **aprimorar meus projetos já existentes**.  
+🌱 Sempre busco **evoluir com os desafios que surgem**, aprendendo e crescendo a cada novo código e projeto.  
+🎮 Além de amar programação, sou apaixonada por **jogos**, **gatos**, **kdramas**, e **kpop**.  
 
 ## :space_invader: Experiência em...
 <!-- Ícones com o nome das tecnologias que já entrei em contato -->
