@@ -5,7 +5,8 @@
   <img src="https://github.com/Mariah-Gomes/Mariah-Gomes/assets/141663285/072fbb72-77d8-4285-b8c5-5f74cdf113f1)"/>
 </div>-->
 <!-- Título de perfil -->
-# Olá, sou Mariah! 👩‍💻  
+# Olá, sou Mariah! 👩‍💻 
+
 Estudante de Ciência da Computação na FEI 🚀  
 ---
 
