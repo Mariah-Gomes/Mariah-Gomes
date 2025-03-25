@@ -80,7 +80,7 @@
 
 - Assembly
   
-## :bar_chart: Estatísticas
+## :bar_chart: Estatísticas:
 <!-- Mostra os gráficos de seu desempenho do github -->
 <div align="center">
 <a href="https://github.com/Mariah-Gomes">
@@ -90,4 +90,4 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Mariah-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 📞 Entre em Contato: 
+## 📞 Contato: 
