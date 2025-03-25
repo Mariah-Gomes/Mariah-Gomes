@@ -1,8 +1,8 @@
 <!-- Onda que se mexe -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/>
 
-# Olá, sou Mariah! 👩‍💻  
-### Estudante de Ciência da Computação na FEI 🚀  
+# Olá, sou Mariah!
+### Estudante de Ciência da Computação na FEI  
 
 💡 Tenho 21 anos, sou de São Paulo e atualmente estou cursando o **6º Semestre** do curso.  
 💻 Tenho interesse em diversas áreas da programação, como **desenvolvimento Front-end** (web e mobile) e **aplicações com banco de dados** usando **Java** ou **Python**.  
