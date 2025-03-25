@@ -6,8 +6,7 @@
 </div>-->
 <!-- Título de perfil -->
 # Olá, sou Mariah! 👩‍💻 
-
-Estudante de Ciência da Computação na FEI 🚀  
+### Estudante de Ciência da Computação na FEI 🚀  
 ---
 
 <!--
