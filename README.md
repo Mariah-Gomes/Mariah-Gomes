@@ -91,3 +91,4 @@
 </div>
 
 ## 📞 Contato: 
+- [LinkedIn](https://www.linkedin.com/in/mariah-santos-gomes/)  
