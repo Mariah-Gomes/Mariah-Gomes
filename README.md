@@ -50,16 +50,16 @@
 ---
 
 ### Banco de Dados
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" title="SQL" style="filter: invert(50%) brightness(1.5);"/>
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="filter: invert(50%) brightness(1.5);"/>
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" style="filter: invert(50%) brightness(1.5);"/>
-  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" title="Firebase" style="filter: invert(50%) brightness(1.5);"/>
 </div>
 
 ---
