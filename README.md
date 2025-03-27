@@ -10,7 +10,11 @@
 🌱 Busco **evoluir com os desafios que surgem**, crescendo a cada novo código e projeto.  
 🎮 Fora da programação, sou apaixonada por **jogos**, **gatos**, **kdramas**, e **kpop**.  
 
+## 📞 Minhas redes: 
+- [LinkedIn](https://www.linkedin.com/in/mariah-santos-gomes/)
+![Static Badge](https://www.linkedin.com/in/mariah-santos-gomes/)
 
+  
 ## :space_invader: Experiência em...
 <!-- Ícones com o nome das tecnologias que já entrei em contato -->
 <p>
@@ -90,5 +94,4 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Mariah-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 📞 Contato: 
-- [LinkedIn](https://www.linkedin.com/in/mariah-santos-gomes/)  
+
