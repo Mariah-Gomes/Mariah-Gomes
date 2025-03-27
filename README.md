@@ -37,7 +37,8 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)](#)
+<!--
+[![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)](#)-->
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" style="filter: invert(50%) brightness(1.5);"/>
@@ -56,7 +57,8 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" title="SQL" style="filter: invert(50%) brightness(1.5);"/>
+  <!--
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" title="SQL" style="filter: invert(50%) brightness(1.5);"/>-->
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="filter: invert(50%) brightness(1.5);"/>
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" style="filter: invert(50%) brightness(1.5);"/>
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" title="Firebase" style="filter: invert(50%) brightness(1.5);"/>
