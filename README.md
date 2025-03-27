@@ -11,8 +11,8 @@
 🎮 Fora da programação, sou apaixonada por **jogos**, **gatos**, **kdramas**, e **kpop**.  
 
 ## 📞 Minhas redes: 
-- [LinkedIn](https://www.linkedin.com/in/mariah-santos-gomes/)
-![Static Badge](https://www.linkedin.com/in/mariah-santos-gomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariah-santos-gomes/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariah.gomes06@gmail.com)
 
   
 ## :space_invader: Experiência em...
