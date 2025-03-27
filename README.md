@@ -57,11 +57,11 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
 <div style="display: flex; gap: 15px;">
-  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" style="filter: invert(50%) brightness(1.5);"/>
-  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" style="filter: invert(50%) brightness(1.5);"/>
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" style="filter: invert(50%) brightness(1.5);"/>
-  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" style="filter: invert(50%) brightness(1.5);"/>
-  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original-wordmark.svg" title="Markdown" style="filter: invert(50%) brightness(1.5);"/>
 </div>
 
 <!--
