@@ -23,7 +23,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 15px;">
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/>
   <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
@@ -39,6 +39,14 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)](#)
 
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/assembly/assembly-original.svg" title="Assembly" style="filter: invert(50%) brightness(1.5);"/>
+</div>
+
 ---
 
 ### Banco de Dados
@@ -46,6 +54,13 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" style="filter: invert(50%) brightness(1.5);"/>
+  <img width="7%" height="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" style="filter: invert(50%) brightness(1.5);"/>
+</div>
 
 ---
 
