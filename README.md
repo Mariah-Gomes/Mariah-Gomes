@@ -56,67 +56,49 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
+<img width=7% height=7% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
+<img width=7% height=7% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
+<img width=7% height=7% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"/>
+<img width=7% height=7% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/> 
+<img width=7% height=7% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown"/>
+
 <!--
 
-<p>
-  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/>
-  CSS
-</p>
-  
-<p>
-  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
-  JavaScript
-</p>
+
   
 <p>
   <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
   Python
 </p>
 
-<p>
-  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"/>
-  Jupyter
-</p>
+
 
 <p>
   <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
   Java
 </p>
 
-<p>
-  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
-  React
-</p>
 
 <p>
   <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
   C
 </p>
 
-<p>
-  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/>
-  Arduino
-</p>
+
   
 <p>
   <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"/>
   C++
 </p>  
   
-<p>
-  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown"/>
-  Markdown
-</p>  
+
  
 <p>
   <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
   GitHub
 </p>  
   
-<p>
-  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
-  Git
-</p>
+>
 
 - Assembly-->
   
