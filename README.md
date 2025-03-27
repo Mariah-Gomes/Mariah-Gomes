@@ -16,8 +16,6 @@
 
   
 ## :space_invader: Experiência em...
-<!-- Ícones com o nome das tecnologias que já entrei em contato -->
-## Tecnologias e Linguagens
 
 ### 🌐 Front-end
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
